@@ -70,11 +70,8 @@
 | 🎓 título | 🏛️ instituição | 📅 ano |
 |:---|:---:|:---:|
 | `Desenvolvimento de Sistemas` | ETEC / Técnico | `2025` |
-| `— adicione seu curso/diploma —` | — | `—` |
-| `— adicione seu certificado —` | — | `—` |
 
 <br/>
-<sub>💡 <i>atualize esta tabela com seus diplomas e certificados reais</i></sub>
 
 </div>
 
